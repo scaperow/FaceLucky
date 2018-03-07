@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Face Lucky</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_main">Face Lucky</string>
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_register_step1">基本信息</string>
+    <string name="title_activity_register_step2">用户信息</string>
+    <string name="title_activity_register_step3">设置头像</string>
+    <string name="hine_email">电子邮件</string>
+    <string name="hint_password">密码</string>
+    <string name="button_login">登录</string>
+    <string name="button_register">注册</string>
+    <string name="title_activity_register_navigate">注册，只需三步</string>
+    <string name="hint_repeat_password">重复密码</string>
+    <string name="button_previous">上一步</string>
+    <string name="button_continue">继续</string>
+    <string name="hint_nickname">昵称</string>
+    <string name="hint_gender">性别</string>
+    <string name="radio_male">男</string>
+    <string name="radio_famle">女</string>
+    <string name="button_back">返回</string>
+    <string name="button_change_photo">选择头像</string>
+    <string name="button_over">完成</string>
+    <string name="title_activity_explor">匹配成功</string>
+    <string name="title_activity_chat">对话</string>
+    <string name="title_activity_contact">联系人</string>
+    <string name="title_activity_message">消息</string>
+
+</resources>
